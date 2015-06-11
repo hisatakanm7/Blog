@@ -1,0 +1,23 @@
+body {
+	background-image:url('haikei.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size:100% 900px;
+		min-width:1260px;
+}
+#whiteback{
+		background:rgba(255,255,255,0.5);
+		margin:100px 800px 20px 30px ;
+
+	border-radius: 20px;
+	padding:20px;
+	min-width:1000px;
+}
+
+#calender{
+	float:right;
+}
+
+#blog{
+	float:left;
+}
